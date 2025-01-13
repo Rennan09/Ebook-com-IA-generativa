@@ -37,7 +37,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A Yellow and blue snake, eating herself like an Ouroboros, on a dark blue backgorund Vivid style --v 6.1 |
+| título | A Yellow and blue snake, eating herself like an Ouroboros, on a dark blue backgorund, Vivid style --v 6.1 |
 
 ## ✨ Features
 
